@@ -1,0 +1,16 @@
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\bin\Debug\netcoreapp3.1\firebird.exe
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\bin\Debug\netcoreapp3.1\firebird.deps.json
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\bin\Debug\netcoreapp3.1\firebird.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\bin\Debug\netcoreapp3.1\firebird.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\bin\Debug\netcoreapp3.1\firebird.dll
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\bin\Debug\netcoreapp3.1\firebird.pdb
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.tehthing.resources
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.Properties.Resources.resources
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.csproj.GenerateResource.cache
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.dll
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.pdb
+C:\Users\Owner\OneDrive\Desktop\firebird\firebird\firebird\obj\Debug\netcoreapp3.1\firebird.genruntimeconfig.cache
